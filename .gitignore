@@ -2,7 +2,6 @@
 *.swp
 .project
 .idea/
-.vscode/
 npm-debug.log
 .jshintrc
 .vs/
@@ -25,3 +24,7 @@ test/treeshake/stats.html
 
 
 **/node_modules
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
